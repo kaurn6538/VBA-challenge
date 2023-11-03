@@ -57,6 +57,7 @@ Total_Stock_Volume = Total_Stock_Volume + ws.Cells(i, "G").Value
 
 'Formatting the required cells'
 ws.Cells(Outcome_Table_Row, "M").Style = "Percent"
+ws.Cells(Outcome_Table_Row, "L").Style = "Currency"
 
 
 'Set corresponding outcome table cells to their respective values'
