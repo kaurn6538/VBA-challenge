@@ -34,4 +34,4 @@ To use this stock analysis tool, follow these steps:
 If you have any suggestions or ideas for improvement, feel free to [submit an issue](https://github.com/kaurn6538/VBA-challenge/pulse) or [create a pull request](https://github.com/kaurn6538/VBA-challenge/pulls). 
 
 
-## Contact For any questions or inquiries, please contact the project author: Navdeep Kaur
+## Contact For any questions or inquiries, please contact the project author: [Navdeep Kaur](https://github.com/kaurn6538)
